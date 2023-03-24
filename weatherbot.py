@@ -2,8 +2,8 @@ import telebot
 import requests
 import json
 
-token = '6230500274:AAEwvnh0WPFkjUbOp0K2iW5DiFyiKfQND9w'
-API = '737fe8338bf6bd1683549fb04d9311c9'
+token = 'YOUR_TELEGRAM_BOT_TOKEN'
+API = 'YOUR_API_KEY_FROM_OPENWEATHERMAP'
 
 bot = telebot.TeleBot(token)
 
